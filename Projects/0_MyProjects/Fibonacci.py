@@ -13,4 +13,5 @@ else:
     # İstenilen eleman sayısından fazla olursa kes
     liste = liste[:sayi]
 
+
     print(f"İlk {sayi} Fibonacci sayısı: {liste}")
